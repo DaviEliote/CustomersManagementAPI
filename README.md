@@ -8,7 +8,7 @@ Spring Boot 3.0
 
 Spring Data JPA (Data persistence)
 
-PostgreSQL (Banco de dados)
+PostgreSQL (Data base)
 
 SpringDoc OpenAPI (Swagger UI)
 
